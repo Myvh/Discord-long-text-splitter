@@ -19,4 +19,4 @@ I do not plan on improving this program. Feel free to adapt it to your use and/o
 
 ## More info
 
-See the comments in the source code.
+See the source code.
