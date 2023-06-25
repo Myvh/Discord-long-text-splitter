@@ -3,7 +3,7 @@
 # Made by Myvh on 2023 June.
 
 # This little program splits the given text into chunks at most `maxLength` long, with the added condition that the splitting points have to be single newlines (newlines that are not next to another newline).
-# This is because Discord trims leading and trailing newlines from messages, so splitting at a multiple newline makes it a single newline when the chunks are sent as messages.
+# This is because Discord trims leading and trailing newlines from messages, so splitting at a multiple newline makes it a single newline when sent.
 
 ## Text splitting
 
