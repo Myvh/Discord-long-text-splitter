@@ -1,6 +1,6 @@
 # Discord long text splitter
 
-A barebone graphic Python tool that splits long texts to fit the Discord message character limit, while preserving the text layout.
+A barebone graphic Python tool that splits long texts to fit the Discord message character limit, while preserving the newlines.
 
 ## Example screenshot
 
