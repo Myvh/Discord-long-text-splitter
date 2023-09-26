@@ -13,6 +13,10 @@ A barebone graphic Python tool that splits long texts to fit the Discord message
 - Each chunk is copied in the clipboard by a single button click.
 - The splitting points are chosen to be single newlines (newlines that are not next to another newline). This is because Discord trims leading and trailing newlines from messages, so splitting at a multiple newline makes it a single newline when sent.
 
+## Non-feature
+
+- This tool does **not** handle the code blocks made with ` ``` `, it can split inside them and thus break their formatting.
+
 ## Improvement
 
 I do not plan on improving this program. Feel free to adapt it to your use and/or enhance it for everybody.
